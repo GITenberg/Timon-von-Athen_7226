@@ -1,0 +1,44 @@
+_repo: Timon-von-Athen_7226
+contributor:
+  translator:
+    agent_name: Wieland, Christoph Martin
+    aliases:
+    - Wieland, C. M. (Christoph Martin)
+    - Viland, K. M. (Kristof Martin)
+    - Viland, Kristof Martin
+    - Wieland, Christian M. (Christian Martin)
+    - Wieland, Cristoph Martin
+    - Wieland, Christophorus Martinus
+    birthdate: 1733
+    deathdate: 1813
+    gutenberg_agent_id: '845'
+    url: http://www.gutenberg.org/2009/agents/845
+    wikipedia: http://en.wikipedia.org/wiki/Christoph_Martin_Wieland
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspere, William
+    - Shakspeare, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+description: ''
+gutenberg_bookshelf: DE Drama
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7226'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tragedies'
+- !lcc 'PR'
+- !lcsh 'Athens (Greece) -- Drama'
+- !lcsh 'Timon of Athens (Legendary character) -- Drama'
+title: Timon von Athen
+url: http://www.gutenberg.org/ebooks/7226

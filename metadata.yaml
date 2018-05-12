@@ -1,4 +1,5 @@
 _repo: Timon-von-Athen_7226
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Wieland, Christoph Martin
@@ -14,6 +15,9 @@ contributor:
     gutenberg_agent_id: '845'
     url: http://www.gutenberg.org/2009/agents/845
     wikipedia: http://en.wikipedia.org/wiki/Christoph_Martin_Wieland
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Shakespeare, William
@@ -26,6 +30,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/65
     wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7226#Timon-von-Athen
 gutenberg_bookshelf: DE Drama
 gutenberg_issued: '2005-01-01'
 gutenberg_type: Text
